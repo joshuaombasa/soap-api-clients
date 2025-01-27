@@ -1,10 +1,10 @@
-# SOAP API Clients (Java & Python)
+# SOAP API Clients (Java, Python & Go)
 
-This repository contains SOAP API clients written in **Java** and **Python** that interact with the [CountryInfo SOAP Web Service](http://webservices.oorsprong.org/websamples.countryinfo/CountryInfoService.wso).
+This repository contains SOAP API clients written in **Java**, **Python**, and **Go** that interact with the [CountryInfo SOAP Web Service](http://webservices.oorsprong.org/websamples.countryinfo/CountryInfoService.wso).
 
 ## Features
 - Retrieve country information via SOAP requests.
-- Implemented in **Python** using `zeep` and **Java** using `wsimport`.
+- Implemented in **Python** using `zeep`, **Java** using `wsimport`, and **Go** using `gowsdl`.
 
 ---
 
